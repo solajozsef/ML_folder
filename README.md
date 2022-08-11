@@ -1,3 +1,3 @@
-# git_folder_to_practise
+# ML_folder
 
-Adding one more line...
+Machine learning jupyter notebooks
